@@ -1,0 +1,3 @@
+# Patrón Observer en PHP: Implementa Comunicación Reactiva entre Objetos
+
+- En este tutorial, aprenderás a implementar el Patrón Observer en PHP, un enfoque que permite establecer comunicación reactiva entre objetos. Este patrón es ideal para mantener la coherencia y sincronización entre varios componentes cuando uno de ellos cambia su estado. Descubre cómo suscribirte a eventos y notificar automáticamente a otros objetos cuando se produzcan cambios, creando un sistema flexible y escalable que mejora la modularidad de tu código. ¡Domina la interacción entre objetos con este poderoso patrón de diseño!
