@@ -1,0 +1,8 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Inventory\\": "src/Inventory/",
+      "Observers\\": "src/Observers/"
+    }
+  }
+}
